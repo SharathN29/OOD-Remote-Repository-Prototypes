@@ -1,0 +1,15 @@
+C:\Users\Sharath Nagendra\Desktop\Project3
+true
+true
+false
+false
+FolderSelection
+false
+true
+true
+false
+false
+true
+false
+false
+true
